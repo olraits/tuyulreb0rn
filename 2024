@@ -1,9 +1,8 @@
 
 #EXTM3U 
+
 tuyulreb0rn2324
 ```````` NASIONAL ````````
-
-#EXTINF:-1 group-logo="https://i.ibb.co/K0vmtrP/cat-nasional.png",
 
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://i.ibb.co/bQvyMnY/antv.png" group-title="NASIONAL", ANTV 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
